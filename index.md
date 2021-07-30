@@ -1,9 +1,9 @@
-﻿# Third Eye For THe Blind
+﻿# Third Eye For The Blind
 In this project i used ultrasonic sensors and waves to help the blind detect the objects in their surroundings. It warns the user with buzzers and a vibration.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Rinna Iyer | Saratoga Highschool | Hardware Engineering | Incoming Sophomore 
+| Rinna I. | Saratoga Highschool | Hardware Engineering | Incoming Sophomore 
 
 ![Headstone Image]: put a link
   
