@@ -22,4 +22,5 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 For first milestone I built the Third Eye or the Blind. It contains a ultrasonic sensor, buzzer, ardiuno uno board and a breadboard. THe ultrasonice sensor detects objects in its surrounding and uses the buzzer to warn the user. The buzzer vibrates and that tells the user there is a a object near by. My challenge was to get the wires connected on the correct parts of the adruino board. Even if the slightest wire was off then the whole thing wouldn't work. Once I solved that problem it was easier to finish the project. For my next mileston i will see it the sensor can detect more than just objects maybe even color or text. 
 <img src="images/carboncode.png" width=500 align=center style="float:right; padding-right:10px">
-[![First Milestone](video)
+[![First Milestone]https://youtu.be/ReWsBnCgHpk
+
