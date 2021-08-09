@@ -13,7 +13,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](video)
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+For my second milestone I am starting to make a talking smart glass for the blind. This project contains more than one ultrasonic sensor, vibration motor, MP# player module and more. The circuit booard which is used in the project can be designed into a spectacle shape for easy use for the blind. The eudrino will be on the spectacle and this is what will detect the objects. It sill warn the person either through vibrations or beeping. 
 
 [![Third Milestone](video)
 
