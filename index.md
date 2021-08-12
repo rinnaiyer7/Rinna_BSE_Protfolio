@@ -17,7 +17,7 @@ For my second milestone I am starting to make a talking smart glass for the blin
 The main challenge for me was actually getting all the parts in time and actually understanding the function of each of them. Because i want able to get my vibration motors on time i decided to use a sevo motor which rotates.
 In my previous milestone I only used a buzzer to warn the user. But for this one i decided to add a new second way to warn the user. This may be more efficient and a louder mroe effectuve way to warn the user. 
 
-![image](https://user-images.githubusercontent.com/88203827/129142435-bacec7ca-686c-4a6d-ac48-f322dc0f8c5c.png)
+Carbon COde 2 (https://drive.google.com/file/d/1Y_LW6ugu6YxI_F1MDXhLmaN9-E7mNSpt/view?usp=sharing)
 
 
 [![Third Milestone](video)
