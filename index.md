@@ -13,7 +13,12 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](video)
 
 # Second Milestone
-For my second milestone I am starting to make a talking smart glass for the blind. This project contains more than one ultrasonic sensor, vibration motor, MP# player module and more. The circuit booard which is used in the project can be designed into a spectacle shape for easy use for the blind. The eudrino will be on the spectacle and this is what will detect the objects. It sill warn the person either through vibrations or beeping. 
+For my second milestone I am starting to make a talking smart glass for the blind. This project contains more than one ultrasonic sensor, vibration motor, MP# player module and more. The circuit booard which is used in the project can be designed into a spectacle shape for easy use for the blind. The audrino will be on the spectacle and this is what will detect the objects. It sill warn the person either through vibrations or beeping.
+The main challenge for me was actually getting all the parts in time and actually understanding the function of each of them. Because i want able to get my vibration motors on time i decided to use a sevo motor which rotates.
+In my previous milestone I only used a buzzer to warn the user. But for this one i decided to add a new second way to warn the user. This may be more efficient and a louder mroe effectuve way to warn the user. 
+
+![image](https://user-images.githubusercontent.com/88203827/129142435-bacec7ca-686c-4a6d-ac48-f322dc0f8c5c.png)
+
 
 [![Third Milestone](video)
 
