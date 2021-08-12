@@ -17,7 +17,7 @@ For my second milestone I am starting to make a talking smart glass for the blin
 The main challenge for me was actually getting all the parts in time and actually understanding the function of each of them. Because i want able to get my vibration motors on time i decided to use a sevo motor which rotates.
 In my previous milestone I only used a buzzer to warn the user. But for this one i decided to add a new second way to warn the user. This may be more efficient and a louder mroe effectuve way to warn the user. 
 
-Carbon COde 2 (https://drive.google.com/file/d/1Y_LW6ugu6YxI_F1MDXhLmaN9-E7mNSpt/view?usp=sharing)
+Carbon Code 2: 
 
 
 [![Third Milestone](video)
@@ -29,5 +29,5 @@ For first milestone I built the Third Eye or the Blind. It contains a ultrasonic
 
 <img src="images/carboncode.png" width=500 align=center style="float:left; padding-right:10px">
 
-[![First Milestone]https://youtu.be/ReWsBnCgHpk
+[![First Milestone]https:[![Rinna I's First Milestone Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1628777165/video_to_markdown/images/youtube--ReWsBnCgHpk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ReWsBnCgHpk "Rinna I's First Milestone Video")
 
