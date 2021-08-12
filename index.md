@@ -8,7 +8,7 @@ In this project i used ultrasonic sensors and waves to help the blind detect the
 ![Headstone Image]: put a link
   
 # Final Milestone
-My final milestone 
+Coming soon :))
 
 [![Final Milestone](video)
 
@@ -18,11 +18,9 @@ The main challenge for me was actually getting all the parts in time and actuall
 In my previous milestone I only used a buzzer to warn the user. But for this one i decided to add a new second way to warn the user. This may be more efficient and a louder more effectuve way to warn the user. 
 
 
-[![Third Milestone](video)
+[![Second Milestone](video)
 
 # First Milestone
-  
-![Ultrasonic Sensor](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.pk%2Fproducts%2Fhc-sr04-ultrasonic-sensor-module-i194956019.html&psig=AOvVaw3bKeAr0MX2Y-p3maSTXeuD&ust=1628864084737000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCZu9zVq_ICFQAAAAAdAAAAABAO)
 
 For first milestone I built the Third Eye or the Blind. It contains a ultrasonic sensor, buzzer, ardiuno uno board and a breadboard. THe ultrasonice sensor detects objects in its surrounding and uses the buzzer to warn the user. The buzzer vibrates and that tells the user there is a a object near by. My challenge was to get the wires connected on the correct parts of the adruino board. Even if the slightest wire was off then the whole thing wouldn't work. Once I solved that problem it was easier to finish the project. For my next mileston i will see it the sensor can detect more than just objects maybe even color or text. 
 
